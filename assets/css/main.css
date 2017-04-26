@@ -109,6 +109,21 @@ a:hover{
   color: white;
 }
 
+.h2Sfinal{
+  font-size: 40px;
+  color: #333;
+  text-align: center;
+}
+.pFinal{
+  font-size: 20px;
+  text-align: center;
+  width: 70%;
+  left: 15%;
+}
+.contenedorFotos{
+  left: 10%;
+}  
+
 .footer{
 		padding-top: 50px;
     padding-bottom: 50px;
