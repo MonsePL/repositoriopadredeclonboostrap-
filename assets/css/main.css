@@ -107,3 +107,17 @@ a:hover{
   background: #563d7c;
   color: white;
 }
+.h2Sfinal{
+  font-size: 40px;
+  color: #333;
+  text-align: center;
+}
+.pFinal{
+  font-size: 20px;
+  text-align: center;
+  width: 70%;
+  left: 15%;
+}
+.contenedorFotos{
+  left: 10%;
+}
