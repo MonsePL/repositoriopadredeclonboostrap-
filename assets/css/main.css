@@ -5,6 +5,7 @@ html,body{
 }
 a:hover{
 	text-decoration: underline;
+
 }
 .justificar{
 	text-align: justify;
@@ -107,9 +108,17 @@ a:hover{
   background: #563d7c;
   color: white;
 }
+
 .footer{
 		padding-top: 50px;
     padding-bottom: 50px;
     color: #99979c;
     text-align: center;
+ }
+
+h4>a {
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	margin-top: 30px;
 }
