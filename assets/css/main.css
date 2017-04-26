@@ -107,3 +107,9 @@ a:hover{
   background: #563d7c;
   color: white;
 }
+.footer{
+		padding-top: 50px;
+    padding-bottom: 50px;
+    color: #99979c;
+    text-align: center;
+}
