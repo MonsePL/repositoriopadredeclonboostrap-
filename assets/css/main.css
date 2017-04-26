@@ -5,6 +5,7 @@ html,body{
 }
 a:hover{
 	text-decoration: underline;
+
 }
 .justificar{
 	text-align: justify;
@@ -107,6 +108,7 @@ a:hover{
   background: #563d7c;
   color: white;
 }
+
 .h2Sfinal{
   font-size: 40px;
   color: #333;
@@ -120,4 +122,18 @@ a:hover{
 }
 .contenedorFotos{
   left: 10%;
+}  
+
+.footer{
+		padding-top: 50px;
+    padding-bottom: 50px;
+    color: #99979c;
+    text-align: center;
+ }
+
+h4>a {
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	margin-top: 30px;
 }
