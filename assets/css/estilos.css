@@ -44,8 +44,8 @@ li {
 }
 .negrita {
     font-weight: 400;
-    font-size: 24px;
-    margin-top: -10px;
+    font-size: 21px;
+    margin-top: -5px;
 
 }
 #white{
@@ -59,7 +59,7 @@ li {
 
 }
 .blue:hover{
-  background-color:darkblue;
+  background-color:#0269c2;
 }
 li>a {
    text-decoration: none;
